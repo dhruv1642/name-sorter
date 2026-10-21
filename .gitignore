@@ -1,0 +1,5 @@
+target/
+sorted-names-list.txt
+.idea/
+*.iml
+.vscode/
